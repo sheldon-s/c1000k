@@ -31,7 +31,3 @@ The client will output message like this:
 
 	connections: 154
 	error: Connection refused
-
-	test1
-	test2
-	test3
