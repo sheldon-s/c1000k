@@ -36,3 +36,4 @@ The client will output message like this:
 	test2
 	test3
 	test4
+	test5
