@@ -35,5 +35,3 @@ The client will output message like this:
 	test1
 	test2
 	test3
-	test4
-	test5
